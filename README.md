@@ -1,3 +1,3 @@
 # hello-world
-このリポジトリは GitHub Flow を実行するためのリポジトリです
+このリポジトリは GitHub Flow を実行するためのリポジトリです。
 こんにちは

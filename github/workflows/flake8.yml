@@ -2,7 +2,7 @@ name: flake8
 
 on:
   pull_request:
-    puths:
+    paths:
       - '**.py'
 
 jobs:
@@ -29,5 +29,5 @@ jobs:
     -name: Upload flake8 report
       uses: actions/upload-artifact@v4
       with:
-        name: flake8-flake8_report
+        name: flake8-report
         path: flake8_report.txt      

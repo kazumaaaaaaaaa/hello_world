@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "software Eng. lecture note
+title: "software Eng. lecture note"
 permalink: /docs/softwareEng2025
 ---
 # ソフトウェア工学
@@ -145,7 +145,7 @@ CIとはコード変更と共有レポジトリに頻繁に統合するプロセ
 5. ランナー:  GitHub提供のホステッドランナーまたはセルフホステッドランナーを使用可能  
 
 ### CI/CDの実践
-Githubにあるリモートレポジトリの内容をwebpageとして公開する子ができる。HPの更改はCI/CDによって自動化することができ、Jekyllを使用することでmakedownファイルを自動的にhtml化することができる。
+Githubにあるリモートレポジトリの内容をwebpageとして公開することができる。HPの更改はCI/CDによって自動化することができ、Jekyllを使用することでmakedownファイルを自動的にhtml化することができる。
 
 ## まとめ
 この講義ではソフトウェア工学の基礎的な概念やソフトウェア開発に関する知識などを学ぶことができた。flake8を用いたコードのチェックやプロジェクトで開発する際のGithubを用いた方法などを実際に確かめながら学ぶことができたため、理論だけでなく実践的なスキルも同時に身に付けることができた。
